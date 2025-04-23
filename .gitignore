@@ -1,0 +1,10 @@
+/*
+
+# Exceptions: Include specific files and folders
+!face_attractiveness_script.py
+!faces_to_extract_from/
+!output_data/
+!
+
+# Ensure placeholder files are included
+!*/.gitkeep
