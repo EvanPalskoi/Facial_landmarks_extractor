@@ -165,8 +165,16 @@ for filename in os.listdir(image_folder_path):
         cheekbone = euclidean(landmark_coords[2], landmark_coords[16])
         jaw = euclidean(landmark_coords[5], landmark_coords[13])
         facelength = face_height
-        with open("results.txt", "w") as f:
-            f.write(f"Name of the file: {filename}")
+        json_file = "extracted_data.json"
+        data = []
+        if os.path.exists(json_file):
+            with open(json_file, "r") as f:
+                data = json.load(f)
+        
+        print(filename)
+        with open(r".\outputs\extracted_data.txt", "a") as f:
+            f.write(f"Name of the file: {filename}\n")
             f.write(f"Normalized jaw width: {normalized_jaw_width:.2f} (average: 0.6-0.7)\n[[2]]")
-            f.write(f"Jaw angles: Left={left_jaw_angle:.1f}°, Right={right_jaw_angle:.1f}°\n (average: 160-180)")
-            f.write(f"Eye Symmetry score: {symmetry_score:.2f} (out of 1.0)\n[[8]]")      
+            f.write(f"Jaw angles: Left={left_jaw_angle:.1f}, Right={right_jaw_angle:.1f}\n (average: 160-180)")
+            f.write(f"Eye Symmetry score: {symmetry_score:.2f} (out of 1.0)\n[[8]]")
+            print("extracted")

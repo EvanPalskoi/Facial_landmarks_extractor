@@ -1,0 +1,61 @@
+Name of the file: image_to_sample_1.jpg
+Normalized jaw width: 0.85 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=170.7, Right=170.9
+ (average: 160-180)Eye Symmetry score: 0.44 (out of 1.0)
+[[8]]Name of the file: image_to_sample_1.jpg
+Normalized jaw width: 0.83 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=165.9, Right=174.8
+ (average: 160-180)Eye Symmetry score: 0.46 (out of 1.0)
+[[8]]Name of the file: image_to_sample_1.jpg
+Normalized jaw width: 0.78 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=171.4, Right=168.7
+ (average: 160-180)Eye Symmetry score: 0.45 (out of 1.0)
+[[8]]Name of the file: image_to_sample_1.jpg
+Normalized jaw width: 0.81 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=172.0, Right=165.5
+ (average: 160-180)Eye Symmetry score: 0.40 (out of 1.0)
+[[8]]Name of the file: image_to_sample_2.jpg
+Normalized jaw width: 0.86 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=171.1, Right=178.6
+ (average: 160-180)Eye Symmetry score: 0.42 (out of 1.0)
+[[8]]Name of the file: image_to_sample_2.jpg
+Normalized jaw width: 0.81 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=173.7, Right=174.1
+ (average: 160-180)Eye Symmetry score: 0.40 (out of 1.0)
+[[8]]Name of the file: image_to_sample_2.jpg
+Normalized jaw width: 0.79 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=180.0, Right=173.2
+ (average: 160-180)Eye Symmetry score: 0.47 (out of 1.0)
+[[8]]Name of the file: image_to_sample_2.jpg
+Normalized jaw width: 0.84 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=169.5, Right=177.2
+ (average: 160-180)Eye Symmetry score: 0.42 (out of 1.0)
+[[8]]Name of the file: image_to_sample_2.jpg
+Normalized jaw width: 0.81 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=173.1, Right=175.1
+ (average: 160-180)Eye Symmetry score: 0.42 (out of 1.0)
+[[8]]Name of the file: SEI_120628051.webp
+Normalized jaw width: 0.85 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=163.3, Right=171.3
+ (average: 160-180)Eye Symmetry score: 0.46 (out of 1.0)
+[[8]]Name of the file: SEI_120628051.webp
+Normalized jaw width: 0.84 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=163.8, Right=170.2
+ (average: 160-180)Eye Symmetry score: 0.46 (out of 1.0)
+[[8]]Name of the file: SEI_120628051.webp
+Normalized jaw width: 0.84 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=163.5, Right=169.2
+ (average: 160-180)Eye Symmetry score: 0.46 (out of 1.0)
+[[8]]Name of the file: SEI_120628051.webp
+Normalized jaw width: 0.84 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=163.0, Right=168.9
+ (average: 160-180)Eye Symmetry score: 0.46 (out of 1.0)
+[[8]]Name of the file: SEI_120628051.webp
+Normalized jaw width: 0.84 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=164.7, Right=167.7
+ (average: 160-180)Eye Symmetry score: 0.47 (out of 1.0)
+[[8]]Name of the file: SEI_120628051.webp
+Normalized jaw width: 0.84 (average: 0.6-0.7)
+[[2]]Jaw angles: Left=166.2, Right=168.7
+ (average: 160-180)Eye Symmetry score: 0.46 (out of 1.0)
+[[8]]
